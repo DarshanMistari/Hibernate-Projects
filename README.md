@@ -1,2 +1,2 @@
-# Hibernate-Project-
+# Hibernate-Project
 This Repo Contain all the Projects Related to Hibernate
